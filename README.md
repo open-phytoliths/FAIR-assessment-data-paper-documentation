@@ -3,10 +3,15 @@
 ## What is this article about?
 This paper aims to describe each steps used (Full description of the experimental design, data acquisition assays, computational processing) in documenting and producing the data from the FAIR phytolith assessment. This study aims at assessing the phytolith sharing data using two regional studies: Europe and South America. 
 
-## Find out more
-* Paper documents
-    * FAIR Phytoliths Data Assessment Form  – Europe
-    * FAIR Phytoliths Data Assessment  – South America
+## Documents
+* FAIR assessment trial
+* FAIR assessment final documents
+    * FAIR assessment data categories table
+    * README file for European dataset
+    * README file for South American dataset
+    * Data collection forms
+      * FAIR Phytoliths Data Assessment Form  – Europe
+      * FAIR Phytoliths Data Assessment  – South America
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
