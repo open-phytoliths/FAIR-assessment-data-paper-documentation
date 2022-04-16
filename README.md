@@ -18,7 +18,12 @@ This paper aims to describe each step used (Full description of the experimental
     * Data collection form for trial  
  * search data 
     * contains csv files of the searches conducted using publish or perish to get the list of relevant articles.
-   
+
+## Funding
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824087. 
+
+![EOSC life](https://github.com/open-phytoliths/FAIR-phytoliths/blob/main/assets/images/eosc-life.jpg)
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -32,5 +37,5 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-##  Thanks
+##  Acknowledgements
 
