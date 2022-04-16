@@ -16,7 +16,9 @@ This paper aims to describe each step used (Full description of the experimental
  * FAIR assessment trial
     * Data collection methodology development document
     * Data collection form for trial  
- * search data 
+ * data-raw
+    * contains the two raw datasets for Europe and South America as csv files. 
+ * data-search 
     * contains csv files of the searches conducted using publish or perish to get the list of relevant articles.
 
 ## Funding
