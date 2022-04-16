@@ -1,8 +1,8 @@
-# DATA PAPER - Methods to design a FAIR assessment on phytolith research practices
+# DATA PAPER - Data from 'Assessing phytolith data using the FAIR data principles'.
 
-Citation for data paper:
+## Citation for data paper: 
 
-## What is this article about?
+## What is the article about?
 This paper aims to describe each step used (Full description of the experimental design, data acquisition assays, computational processing) in documenting and producing the data from the FAIR phytolith assessment. This study aims at assessing the phytolith sharing data using two regional studies: Europe and South America. 
 
 ## Folders
