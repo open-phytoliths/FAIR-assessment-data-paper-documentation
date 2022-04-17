@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "When using the data or documentation in this repository, please cite it as below."
+type: dataset
+authors:
+- family-names: Karoune
+  given-names: Emma
+  affiliation: The Alan Turing Institure
+  orcid: 'https://orcid.org/0000-0002-6576-6053'
+- family-names: Kerfant
+  given-names: Celine
+  affiliation: Universitat Pompeu Fabra
+  orcid: 'https://orcid.org/0000-0002-4297-5469'
+- family-names: Lancelotti
+  given-names: Carla
+  affiliation: Universitat Pompeu Fabra
+  orcid: 'https://orcid.org/0000-0003-1099-7329'  
+- family-names: Ruiz-Pérez 
+  given-names: Javier
+  affiliation: Texas A & M University
+  orcid: 'https://orcid.org/0000-0001-8593-7393'  
+- family-names: García-Granero
+  given-names: Juan José 
+  affiliation: Spanish National Research Council
+  orcid: 'https://orcid.org/0000-0002-7546-2176'  
+- family-names: Madella
+  given-names: Marco
+  affiliation: Universitat Pompeu Fabra
+  orcid: 'https://orcid.org/0000-0002-9324-1545'  
+title: Data from ''Assessing phytolith data using the FAIR data principles'.
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 
+url: "https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation"
+abstract: >-
+  This is the repository for the data and documentation of the FAIR assessment carried out in the FAIR Phytoliths Project. 
+keywords:
+  - Phytoliths
+  - Archaeobotany
+  - Open Science
+  - Open Data
+  - Open Access
+  - Open Source
+license: CC-BY-4.0
