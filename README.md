@@ -1,9 +1,11 @@
 # DATA PAPER - Data from 'Assessing phytolith data using the FAIR data principles'.
 
+This repository contains the datasets and documentation for the FAIR assessment conducted as part of the FAIR Phytoliths Project. For more details of this project, please see our [website](https://open-phytoliths.github.io/FAIR-phytoliths/). 
+
 ## Citation for data paper: 
 
 ## What is the article about?
-This paper aims to describe each step used (Full description of the experimental design, data acquisition assays, computational processing) in documenting and producing the data from the FAIR phytolith assessment. This study aims at assessing the phytolith sharing data using two regional studies: Europe and South America. 
+This paper aims to describe each step used (Full description of the experimental design, data acquisition assays, computational processing) in documenting and producing the data from the FAIR phytolith assessment. This study aims at assessing the quality (in terms of findability, accessibility, interoperability and reusability) of phytolith data sharing using two regional studies: Europe and South America. 
 
 ## Folders
 * FAIR assessment final documents
@@ -40,4 +42,4 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ##  Acknowledgements
-
+Thank you also to Historic England and Universitat Pompeu Fabra for supporting the fair Phytoliths project. 
