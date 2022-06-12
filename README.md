@@ -1,4 +1,4 @@
-# DATA PAPER - Data from 'Assessing phytolith data using the FAIR data principles'.
+# [WIP] - DATA PAPER - Data from 'Assessing phytolith data using the FAIR data principles'.
 
 This repository contains the datasets and documentation for the FAIR assessment conducted as part of the FAIR Phytoliths Project. For more details of this project, please see our [website](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 
