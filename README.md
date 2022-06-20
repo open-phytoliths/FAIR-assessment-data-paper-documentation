@@ -17,6 +17,11 @@ This paper aims to describe each step used (Full description of the experimental
       * FAIR Phytoliths Data Assessment  – South America
     * Observations made during the data assessment according to the set of questions table
     * Saturation and representativity of data collected.pdf
+    * ROAD DOI R Package_Europe.csv
+    * ROAD DOI R Package_South_America.csv
+    * ROAD DOI R Package_Europe_code.md
+    * ROAD DOI R Package_South_America_code.md
+
  * FAIR assessment trial
     * Data collection methodology development document
     * Data collection form for trial
