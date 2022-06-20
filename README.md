@@ -15,9 +15,12 @@ This paper aims to describe each step used (Full description of the experimental
     * Data collection forms
       * FAIR Phytoliths Data Assessment Form  – Europe
       * FAIR Phytoliths Data Assessment  – South America
+    * Observations made during the data assessment according to the set of questions table
+    * Saturation and representativity of data collected.pdf
  * FAIR assessment trial
     * Data collection methodology development document
-    * Data collection form for trial  
+    * Data collection form for trial
+    * Table summarising how the FAIR principles were linked to a practical set of questions shaped specifically for phytolith research.pdf  
  * data-raw
     * contains the two raw datasets for Europe and South America as csv files. 
  * data-search 
