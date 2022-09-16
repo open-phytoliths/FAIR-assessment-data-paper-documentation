@@ -50,4 +50,4 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ##  Acknowledgements
-Thank you also to Historic England and Universitat Pompeu Fabra for supporting the fair Phytoliths project. 
+Thank you also to Historic England and Universitat Pompeu Fabra for supporting the FAIR Phytoliths project. 
