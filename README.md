@@ -10,17 +10,19 @@ This paper aims to describe each step used (Full description of the experimental
 ## Folders
 * FAIR assessment final documents
     * FAIR assessment data categories table
-    * README file for European dataset
-    * README file for South American dataset
+    * Specifications table (Detailed overview of the study design).pdf
+    * README files
+         * README file for European dataset
+         * README file for South American dataset
     * Data collection forms
-      * FAIR Phytoliths Data Assessment Form  – Europe
-      * FAIR Phytoliths Data Assessment  – South America
-    * Observations made during the data assessment according to the set of questions table
-    * Saturation and representativity of data collected.pdf
-    * ROAD DOI R Package_Europe.csv
-    * ROAD DOI R Package_South_America.csv
-    * ROAD DOI R Package_Europe_code.md
-    * ROAD DOI R Package_South_America_code.md
+         * FAIR Phytoliths Data Assessment Form  – Europe
+         * FAIR Phytoliths Data Assessment  – South America
+    * Observations made during the data assessment according to the set of questions table.pdf
+    * *Roadoi* R package documentation
+         * *roadoi* R package_Europe.csv
+         * *roadoi* R package_South_America.csv
+         * *roadoi* R package_Europe_code.md
+         * *roadoi* R package_South_America_code.md
 
  * FAIR assessment trial
     * Data collection methodology development document
@@ -30,6 +32,8 @@ This paper aims to describe each step used (Full description of the experimental
     * contains the two raw datasets for Europe and South America as csv files. 
  * data-search 
     * contains csv files of the searches conducted using publish or perish to get the list of relevant articles.
+ * Data saturation
+    * Saturation and representativity of data collected.pdf
 
 ## Funding
 
