@@ -28,9 +28,9 @@ This paper aims to describe each step used (Full description of the experimental
     * Data collection methodology development document
     * Data collection form for trial
     * Table summarising how the FAIR principles were linked to a practical set of questions shaped specifically for phytolith research.pdf  
- * data-raw
+ * Data-raw
     * contains the two raw datasets for Europe and South America as csv files. 
- * data-search 
+ * Data-search 
     * contains csv files of the searches conducted using publish or perish to get the list of relevant articles.
  * Data saturation
     * Saturation and representativity of data collected.pdf
