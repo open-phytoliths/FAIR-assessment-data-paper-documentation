@@ -23,6 +23,7 @@ This paper aims to describe each step used (Full description of the experimental
          * *roadoi* R package_South_America.csv
          * *roadoi* R package_Europe_code.md
          * *roadoi* R package_South_America_code.md
+    * Data dictionary for FAIR Phytoliths FAIR assessment.csv
 
  * FAIR assessment trial
     * Data collection methodology development document
