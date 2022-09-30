@@ -10,33 +10,33 @@ For more details of this project, please see our [website](https://open-phytolit
 This paper aims to describe each step used (Full description of the experimental design, data acquisition assays, computational processing) in documenting and producing the data from the FAIR phytolith assessment. This study aims at assessing the quality (in terms of findability, accessibility, interoperability and reusability) of phytolith data sharing using two regional studies: Europe and South America. 
 
 ## Folders
-* FAIR assessment final documents
-    * FAIR assessment data categories table
-    * Specifications table (Detailed overview of the study design).pdf
-    * README files
-         * README file for European dataset
-         * README file for South American dataset
-    * Data collection forms
-         * FAIR Phytoliths Data Assessment Form  – Europe
-         * FAIR Phytoliths Data Assessment  – South America
-    * Observations made during the data assessment according to the set of questions table.pdf
-    * *Roadoi* R package documentation
-         * *roadoi* R package_Europe.csv
-         * *roadoi* R package_South_America.csv
-         * *roadoi* R package_Europe_code.md
-         * *roadoi* R package_South_America_code.md
-    * Data dictionary for FAIR Phytoliths FAIR assessment.csv
-
- * FAIR assessment trial
+### FAIR assessment final documents
+   * Data dictionary for FAIR Phytoliths FAIR assessment.csv
+   * FAIR assessment data categories table
+   * Observations made during data assessment table
+   * Saturation and representativity of data collected.pdf
+   * Specifications table (Detailed overview of the study design).pdf
+ * README files
+   * README file for European dataset
+   * README file for South American dataset
+ * Data collection forms
+   * FAIR Phytoliths Data Assessment Form  – Europe
+   * FAIR Phytoliths Data Assessment  – South America
+ * *Roadoi* R package documentation
+   * *roadoi* R package_Europe.csv
+   * *roadoi* R package_South_America.csv
+   * *roadoi* R package_Europe_code.md
+   * *roadoi* R package_South_America_code.md
+    
+### FAIR assessment trial
     * Data collection methodology development document
     * Data collection form for trial
     * Table summarising how the FAIR principles were linked to a practical set of questions shaped specifically for phytolith research.pdf  
- * Data-raw
-    * contains the two raw datasets for Europe and South America as csv files. 
- * Data-search 
-    * contains csv files of the searches conducted using publish or perish to get the list of relevant articles.
- * Data saturation
-    * Saturation and representativity of data collected.pdf
+### data-raw
+    * Contains [full raw dataset](https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation/blob/main/data-raw/2022-02-04_FAIR-Phytoliths-Data-Assessment-Final-full-raw-data%20.csv)
+    * Also contains the two separate raw datasets for Europe and South America as csv files. 
+### data-search
+    * contains csv files of the searches conducted using publish or perish to get the list of relevant articles for Europe and South America articles.
 
 ## Funding
 
