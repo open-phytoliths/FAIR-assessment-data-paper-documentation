@@ -29,14 +29,14 @@ This paper aims to describe each step used (Full description of the experimental
    * *roadoi* R package_South_America_code.md
     
 ### FAIR assessment trial
-    * Data collection methodology development document
-    * Data collection form for trial
-    * Table summarising how the FAIR principles were linked to a practical set of questions shaped specifically for phytolith research.pdf  
+  * Data collection methodology development document
+  * Data collection form for trial
+  * Table summarising how the FAIR principles were linked to a practical set of questions shaped specifically for phytolith research.pdf  
 ### data-raw
-    * Contains [full raw dataset](https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation/blob/main/data-raw/2022-02-04_FAIR-Phytoliths-Data-Assessment-Final-full-raw-data%20.csv)
-    * Also contains the two separate raw datasets for Europe and South America as csv files. 
+  * Contains [full raw dataset](https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation/blob/main/data-raw/2022-02-04_FAIR-Phytoliths-Data-Assessment-Final-full-raw-data%20.csv)
+  * Also contains the two separate raw datasets for Europe and South America as csv files. 
 ### data-search
-    * contains csv files of the searches conducted using publish or perish to get the list of relevant articles for Europe and South America articles.
+  * contains csv files of the searches conducted using publish or perish to get the list of relevant articles for Europe and South America articles.
 
 ## Funding
 
