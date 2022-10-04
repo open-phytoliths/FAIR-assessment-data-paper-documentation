@@ -11,7 +11,7 @@ This paper aims to describe each step used (Full description of the experimental
 
 ## Folders
 ### FAIR assessment final documents
-   * Data dictionary for FAIR Phytoliths FAIR assessment.csv
+   * Data-dictionary-FAIR-assessment-final.csv
    * FAIR assessment data categories table
    * Observations made during data assessment table
    * Saturation and representativity of data collected.pdf
