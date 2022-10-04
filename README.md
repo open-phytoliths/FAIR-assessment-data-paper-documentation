@@ -37,6 +37,9 @@ This paper aims to describe each step used (Full description of the experimental
   * Also contains the two separate raw datasets for Europe and South America as csv files. 
 ### data-search
   * contains csv files of the searches conducted using publish or perish to get the list of relevant articles for Europe and South America articles.
+### paper-tables
+  * Table-1-Specifications-table.pdf 
+  * Table-2-Condensed-data-dictionary-FAIR-assessment.pdf
 
 ## Funding
 
