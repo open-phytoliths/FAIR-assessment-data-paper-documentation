@@ -32,10 +32,11 @@ doi: 10.5281/zenodo.1234
 date-released: 
 url: "https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation"
 abstract: >-
-  This is the repository for the data and documentation of the FAIR assessment carried out in the FAIR Phytoliths Project. 
+  This is the repository for the data and documentation of the FAIR assessment data paper carried out in the FAIR Phytoliths Project. 
 keywords:
   - Phytoliths
   - Archaeobotany
+  - FAIR data
   - Open Science
   - Open Data
   - Open Access
