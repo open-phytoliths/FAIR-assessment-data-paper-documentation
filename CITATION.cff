@@ -24,7 +24,7 @@ authors:
   orcid: 'https://orcid.org/0000-0002-9324-1545'  
 - family-names: Karoune
   given-names: Emma
-  affiliation: The Alan Turing Institure
+  affiliation: The Alan Turing Institute
   orcid: 'https://orcid.org/0000-0002-6576-6053'
 title: Data from 'A dataset for assessing phytolith data for implementation of the FAIR data principles'.
 version: 1.0.0
