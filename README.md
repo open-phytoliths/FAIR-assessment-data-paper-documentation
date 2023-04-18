@@ -4,6 +4,13 @@
 
 This repository contains the datasets and documentation for the FAIR assessment conducted as part of the FAIR Phytoliths Project. 
 
+This is the revised version after the integration of the reviewers´comments. The following files have been updated:
+- Observations made during the FAIR assessment according to the set of questions table
+- Specifications table (Detailed overview of the study design)
+- Figure 1:  FAIR Phytoliths project workflow
+- Table 1: Specifications table (overview of the study design)
+- Supplementary table 1: Condensed standardised data dictionary (a full version of this table can be found in Github
+
 For more details of this project, please see our [website](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 
 ## Citation for data paper: 
@@ -44,7 +51,7 @@ This paper aims to describe each step used (Full description of the experimental
   * contains csv files of the searches conducted using publish or perish to get the list of relevant articles for Europe and South America articles.
 ### paper-tables
   * Table-1-Specifications-table.pdf 
-  * Table-2-Condensed-data-dictionary-FAIR-assessment.pdf
+  * Supplementary-table-1-Condensed-data-dictionary-FAIR-assessment.pdf
 
 ## Funding
 
