@@ -9,7 +9,7 @@ This is the revised version after the integration of the reviewers´comments. Th
 - Specifications table (Detailed overview of the study design)
 - Figure 1:  FAIR Phytoliths project workflow
 - Table 1: Specifications table (overview of the study design)
-- Supplementary table 1: Condensed standardised data dictionary (a full version of this table can be found in Github
+- Supplementary table 1: Condensed standardised data dictionary (a full version of this table can be found in Github)
 
 For more details of this project, please see our [website](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 
