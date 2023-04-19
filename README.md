@@ -18,7 +18,7 @@ For more details of this project, please see our [website](https://open-phytolit
 ## What is the article about?
 This paper aims to describe each step used (Full description of the experimental design, data acquisition, computational processing) in documenting and producing the data from the FAIR Phytoliths Project FAIR assessment. This study aims at assessing the quality (in terms of findability, accessibility, interoperability and reusability) of phytolith data sharing using two regional studies: Europe and South America. 
 
-![FAIR Phytoliths Project Data Paper Workflow](https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation/blob/main/figure-1-FAIR-Phytolith-workflow-data-paper.jpg)
+![FAIR Phytoliths Project Data Paper Workflow](https://github.com/open-phytoliths/FAIR-assessment-data-paper-documentation/FAIR assessment flow chart for resubmission_v2.jpg)
 `Figure 1:  FAIR Phytoliths project workflow - the FAIR assessment is the workflow for the data paper and will be combined with the survey paper results to produce the first draft of the Community guidelines. Dotted lines indicate work packages still to be completed on the FAIR Phytoliths Project.`  
 
 ## Folders
