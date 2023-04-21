@@ -1,6 +1,6 @@
 # DATA PAPER - Data from 'A dataset for assessing phytolith data for implementation of the FAIR data principles'.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7215572.svg)](https://doi.org/10.5281/zenodo.7215572)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7851930.svg)](https://doi.org/10.5281/zenodo.7851930)
 
 This repository contains the datasets and documentation for the FAIR assessment conducted as part of the FAIR Phytoliths Project. 
 
