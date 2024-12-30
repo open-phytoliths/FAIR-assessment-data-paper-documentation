@@ -14,6 +14,7 @@ This is the revised version after the integration of the reviewers´comments. Th
 For more details of this project, please see our [website](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 
 ## Citation for data paper: 
+Kerfant, C., Ruiz-Pérez, J., García-Granero, J.J. et al. A dataset for assessing phytolith data for implementation of the FAIR data principles. Sci Data 10, 479 (2023). https://doi.org/10.1038/s41597-023-02296-8
 
 ## What is the article about?
 This paper aims to describe each step used (Full description of the experimental design, data acquisition, computational processing) in documenting and producing the data from the FAIR Phytoliths Project FAIR assessment. This study aims at assessing the quality (in terms of findability, accessibility, interoperability and reusability) of phytolith data sharing using two regional studies: Europe and South America. 
